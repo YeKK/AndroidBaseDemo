@@ -1,3 +1,4 @@
 # AndroidBaseDemo
 安卓基础知识demo合集
 测试基础知识一些demo备份
+LogTestJava java语言编写安卓的不同等级的log，以及在日志查看器里面筛选对应等级的log
